@@ -1,0 +1,15 @@
+.font-luciole {
+    font-family: var(--font-luciole);
+}
+
+.font-luciole-italic {
+    font-family: var(--font-luciole-italic);
+}
+
+.font-luciole-bold {
+    font-family: var(--font-luciole-bold);
+}
+
+.font-luciole-bold-italic {
+    font-family: var(--font-luciole-bold-italic);
+}
