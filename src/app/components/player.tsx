@@ -7,6 +7,7 @@ export default function VideoPlayer() {
             muted={false}
             controls
             >
+            <source src="https://filedn.eu/lWsEldFrD0ljPhHINdv6TVJ/media/Films/L'effet%20Papillon%20WEB.mp4" type="video/mp4" />
             <source src="https://filedn.eu/lWsEldFrD0ljPhHINdv6TVJ/media/Films/L'effet%20Papillon.mp4" type="video/mp4" />
             Votre navigateur ne supporte pas le format vidéo.
             </video>
